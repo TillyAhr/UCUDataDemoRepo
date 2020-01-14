@@ -9,4 +9,4 @@ plot(cars)
 ```
 
 
-this wil go on teh master branch
+this wil go on the master branch
